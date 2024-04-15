@@ -25,8 +25,6 @@ amendoim1.printAlimento();
 limao1.printAlimento();
 
 mandioca1.cozinhar();
-//limao1.cozinhar(); //Não funciona
-//mandioca1.fazerSuco(); //Não funciona
 limao1.fazerSuco();
 banana1.separarIngredientes();
 amendoim1.fazerMassa();
